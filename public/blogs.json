@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/bd0t885/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Art of Programming",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/3WpPMw1/3916.jpg",
+      "post_date": "2024-03-12",
+      "reading_time_min": 10,
+      "hashtags": ["programming", "coding", "software"],
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/GMzgWft/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/FXdxTPM/7855.jpg",
+      "post_date": "2024-03-11",
+      "reading_time_min": 15,
+      "hashtags": ["space", "astronomy", "science"],
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/zXYB0Rt/ideas-concept-laptop-screen.jpg",
+      "title": "Healthy Living Tips",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/dmQJ0NN/9861.jpg",
+      "post_date": "2024-03-10",
+      "reading_time_min": 8,
+      "hashtags": ["health", "fitness", "wellness"],
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/XDj9cTw/online-blog.jpg",
+      "title": "Travel Adventures",
+      "author": "Jack Brown",
+      "author_img": "https://i.ibb.co/Twnk9Bb/31691.jpg",
+      "post_date": "2024-03-09",
+      "reading_time_min": 20,
+      "hashtags": ["travel", "adventure", "explore"],
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/WDfsC5F/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "Artificial Intelligence Insights",
+      "author": "Sophia Lee",
+      "author_img": "https://i.ibb.co/wRnJ67d/131371.jpg",
+      "post_date": "2024-03-08",
+      "reading_time_min": 12,
+      "hashtags": ["AI", "machinelearning", "technology"],
+      "is_active": true
+    }
+  ]
+  
