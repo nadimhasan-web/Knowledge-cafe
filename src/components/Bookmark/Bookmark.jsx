@@ -1,5 +1,5 @@
 
-const Bookmark = (bookmark) => {
+const Bookmark = ({bookmark }) => {
     const {title} = bookmark;
     return (
         <div>
